@@ -70,3 +70,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## MSIB 5
+
+MISB 5 School Management System #GAMELAB_INDONESIA #Kampus_Merdeka [GAMELAB](https://www.gamelab.id/), [Kampus-Mederka](https://kampusmerdeka.kemdikbud.go.id/)
