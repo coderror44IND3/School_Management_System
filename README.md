@@ -76,7 +76,7 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 MISB 5 School Management System
 
-Kelompok Project Akhir:
+Team Project Akhir:
 
 - [Fatchan Muhammad Hakim (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](https://nurulfikri.ac.id/),
 - [Dela Septriani (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](),
