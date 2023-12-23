@@ -76,10 +76,10 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 MISB 5 School Management System 
 
-- [Fatchan Muhammad Hakim (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](),
+- [Fatchan Muhammad Hakim (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](https://nurulfikri.ac.id/),
 - [Dela Septriani (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](),
 - [Rani Kurniawati (Universitas Alma Ata)](),
 - [Satriya Yoga Madhasatya (Institut Teknologi Telkom Purwokerto)](),
 - [Bagas Adi Kurniawan (Institut Teknologi Telkom Purwokerto)](),
 
-[GAMELAB Indonesia](https://www.gamelab.id/), [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
+[Gamelab Indonesia](https://www.gamelab.id/), [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
