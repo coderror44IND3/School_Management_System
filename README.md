@@ -79,10 +79,10 @@ MISB 5 School Management System
 Team Project Akhir:
 
 - [Fatchan Muhammad Hakim (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](https://nurulfikri.ac.id/),
-- [Dela Septriani (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](),
+- [Dela Septriani (Politeknik Negeri Sriwijaya)](),
 - [Rani Kurniawati (Universitas Alma Ata)](),
 - [Satriya Yoga Madhasatya (Institut Teknologi Telkom Purwokerto)](),
-- [Bagas Adi Kurniawan (Institut Teknologi Telkom Purwokerto)](),
+- [Bagas Adi Kurniawan (STMIK Sinar Nusantara Surakarta)](),
 
 [Gamelab Indonesia](https://www.gamelab.id/)
 [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
