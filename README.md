@@ -74,9 +74,9 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## MSIB 5
 
-MISB 5 School Management System
+Our system was created to increase efficiency and enhance the educational experience across our institutions. Discover the educational revolution through technological innovation with our School Management System. We make it easier to manage and improve the quality of learning.
 
-Team Project Akhir:
+Team Project Akhir School Management System :
 
 - [Fatchan Muhammad Hakim (Sekolah Tinggi Teknologi Terpadu Nurul Fikri)](https://nurulfikri.ac.id/),
 - [Dela Septriani (Politeknik Negeri Sriwijaya)](),
