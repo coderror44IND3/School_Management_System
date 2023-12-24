@@ -16,6 +16,7 @@ use App\Http\Controllers\LessonController;
 use App\Http\Controllers\AssigmentController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\PdfController;
+use App\Events\ServerPusher;
 use App\Lesson;
 
 /*
@@ -30,6 +31,7 @@ use App\Lesson;
 */
 
 Route::get('/', function () {
+    ServerPusher::dispatch('Acces Website School Management System');
     return view('pages.main.main');
 });
 
