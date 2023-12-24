@@ -32,11 +32,18 @@
     <link href="{{ asset('admin/assets/vendor/quill/quill.bubble.css') }}" rel="stylesheet">
     <link href="{{ asset('admin/assets/vendor/remixicon/remixicon.css') }}" rel="stylesheet">
 
+    @notifyCss
+
 </head>
 
 <body>
 
     <div class="main-wrapper">
+
+    @include('notify::messages')
+        
+    <x:notify-messages />
+    @notifyJs
 
         @include('admin.layouts.profile')
 

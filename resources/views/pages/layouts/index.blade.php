@@ -29,12 +29,19 @@
     <!-- Template Main CSS File -->
     <link href="{{ asset('pages/assets/css/style.css') }}" rel="stylesheet">
 
+    @notifyCss
+
 </head>
 
 <body>
 
     <!-- ======= Header ======= -->
     <header id="header" class="header fixed-top">
+    @include('notify::messages')
+        
+        <x:notify-messages />
+        @notifyJs
+        
         @include('pages.header.header')
     </header><!-- End Header -->
 

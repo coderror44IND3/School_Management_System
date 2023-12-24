@@ -22,12 +22,18 @@
     <link rel="stylesheet" href="{{ asset('admin/assets/css/select2.min.css') }}">
     <link rel="stylesheet" href="{{ asset('admin/assets/plugins/datetimepicker/css/tempusdominus-bootstrap-4.min.css') }}">
 
+    @notifyCss
 
 </head>
 
 <body>
 
     <div class="main-wrapper">
+        @include('notify::messages')
+        
+        <x:notify-messages />
+        @notifyJs
+
         <div class="account-page">
             <div class="container">
                 <div class="account-box">
