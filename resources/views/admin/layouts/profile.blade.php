@@ -29,7 +29,7 @@
                 </a>
                 <div class="dropdown-menu notifications">
                     <div class="topnav-dropdown-header">
-                        <span>Notifications</span>
+                        <span>Notifications {{auth()->user()->Notifications->count()}} </span>
                     </div>
                     <div class="drop-scroll">
                         <ul class="notification-list">
@@ -37,10 +37,14 @@
                                 <a href="activities.html">
                                     <div class="media">
                                         <span class="avatar">
-                                            <img alt="John Doe" src="{{ asset('admin/assets/img/user-06.jpg') }}" class="img-fluid rounded-circle">
+                                        @if(empty(Auth::user()->photo))
+                                        <img class="rounded-circle" src="{{ url('admin/assets/img/profile/notprofileimages.png') }}" style="width: 34px; height: 34px;">
+                                        @else
+                                        <img class="rounded-circle" src="{{ url('admin/assets/img/users/') }}/{{Auth::user()->photo}}" style="width: 34px; height: 34px;">
+                                        @endif
                                         </span>
                                         <div class="media-body">
-                                            <p class="noti-details"><span class="noti-title">John Doe</span> is now following you </p>
+                                            <p class="noti-details"><span class="noti-title notificationCount"></span> is now following you </p>
                                             <p class="noti-time"><span class="notification-time">4 mins ago</span></p>
                                         </div>
                                     </div>
